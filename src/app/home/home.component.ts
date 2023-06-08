@@ -24,11 +24,11 @@ export class HomeComponent implements OnInit {
     const data = {
       "subject": "Team Meeting",
       "start": {
-        "dateTime": "2023-06-07T10:00:00",
+        "dateTime": "2023-06-09T10:00:00",
         "timeZone": "Pacific Standard Time"
       },
       "end": {
-        "dateTime": "2023-06-07T11:00:00",
+        "dateTime": "2023-06-09T11:00:00",
         "timeZone": "Pacific Standard Time"
       },
       "attendees": [
