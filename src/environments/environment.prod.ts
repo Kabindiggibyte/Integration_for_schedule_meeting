@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  postLogoutUrl:"https://ppp-eosin.vercel.app/"
+  postLogoutUrl:"http://localhost:4200"
 };
